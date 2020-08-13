@@ -1,5 +1,3 @@
-# A-B-Testing-Optimizing-Ads
-
 # A/B Testing Marketing Promotions
 
 Which promotion was the most effective?
